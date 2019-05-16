@@ -50,6 +50,14 @@ ul {
     margin-right: 20px;
 }
 
+p {
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: lighter;
+    line-height: 20px;
+    letter-spacing: 0.5px;
+}
+
 a {
     color: #d21034;
 }
