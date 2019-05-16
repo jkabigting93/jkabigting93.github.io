@@ -1,6 +1,7 @@
 body {
     background-color: #efeee7;
-    font-family: Georgia, "Times New Roman", Times, serif;
+    font-family: 'Catamaran', sans-serif;
+    letter-spacing: 0.5px;
     color: #333333;
     margin: 0;
     padding: 0;
@@ -12,15 +13,19 @@ header {
 
 h1 {
     color: #eee;
+    font-family: 'Righteous', cursive;
     font-size: 28px;
     margin: 0;
     padding: 15px;
     text-align: center;
+    letter-spacing: 1px;
 }
 
 h2 {
+    font-family: 'Righteous', cursive;
     font-size: 24px;
     margin-left: 50px;
+    letter-spacing: 1px;
 }
 
 .container {
@@ -51,11 +56,7 @@ ul {
 }
 
 p {
-    font-family: Arial;
-    font-size: 16px;
-    font-weight: lighter;
-    line-height: 20px;
-    letter-spacing: 0.5px;
+
 }
 
 a {
